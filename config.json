@@ -1,0 +1,9 @@
+{
+    "email_domains": ["@spacetokens.email"],
+    "webhook_urls": ["https://discord.com/api/webhooks/994627819126673408/vPdPhX1MuDzQrdZdx8NzxomsHeN-Xs8r2c6CYU9IADizayRP83u2gvQjamqvslm6O8JM"],
+    "solver_address" : "http://SOLVER_IP_HERE:8080/solvecaptcha",
+    "invite_code": "7XkWGzSt",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:98.0) Gecko/20100101 Firefox/98.0",
+    "x_super_properties": "eyJvcyI6IldpbmRvd3MiLCJicm93c2VyIjoiRmlyZWZveCIsImRldmljZSI6IiIsInN5c3RlbV9sb2NhbGUiOiJlbi1VUyIsImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2Ojk4LjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvOTguMCIsImJyb3dzZXJfdmVyc2lvbiI6Ijk4LjAiLCJvc192ZXJzaW9uIjoiMTAiLCJyZWZlcnJlciI6IiIsInJlZmVycmluZ19kb21haW4iOiIiLCJyZWZlcnJlcl9jdXJyZW50IjoiIiwicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwicmVsZWFzZV9jaGFubmVsIjoic3RhYmxlIiwiY2xpZW50X2J1aWxkX251bWJlciI6OTk5OSwiY2xpZW50X2V2ZW50X3NvdXJjZSI6bnVsbH0=",
+    "x_fingerprint": "979293202328731688.qwQCbvZiLlFGNbc3ixogi_CuFrw"
+}
