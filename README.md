@@ -1,6 +1,6 @@
 # Discord-Token-Generator Or Discord-Member-Botter
 
-> The Main Src Of Space Generator With hCaptcha Solver/Bypass, Idk Why Im Leaking It But Yea Dw It Will Not Get Patched + Ill Update It When It Will Get Patched It
+`The Main Src Of Space Generator With hCaptcha Solver/Bypass, Idk Why Im Leaking It But Yea Dw It Will Not Get Patched + Ill Update It When It Will Get Patched It`
 
 # How To Configure : 
 
@@ -16,3 +16,9 @@
     "x_fingerprint": "979293202328731688.qwQCbvZiLlFGNbc3ixogi_CuFrw" //Dont Touch It
 }
 ```
+
+
+# Links : 
+
+[`Proxies Site`](https://litespeed.cc)
+[`hCaptcha Solver/Bypass Folder (Google Drive)`](https://drive.google.com/file/d/1jRTU2IpIUKX2l0W5U9Q_8gswRN6Bw-3t/view?usp=sharing)
