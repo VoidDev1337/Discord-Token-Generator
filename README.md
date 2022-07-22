@@ -4,7 +4,7 @@
 
 # Goals : 
 
-`100 Stars/80 Follows - ⭐ Fastest hCaptcha Solver/Bypass (6-8 secs solve time)`<br /><br />
+`100 Stars/80 Follows - ⭐ Fastest hCaptcha Solver/Bypass (6-8 secs solve time)`<br />
 `150 Stars/120 Follows - ⭐ Email Verified Gen + Fastest hCaptcha Solver/Bypass (6-8 secs solve time)`
 
 # How To Configure : 
@@ -25,5 +25,4 @@
 
 # Links : 
 
-[`Proxies Site`](https://litespeed.cc)
-[`hCaptcha Solver/Bypass Folder (Google Drive)`](https://drive.google.com/file/d/1jRTU2IpIUKX2l0W5U9Q_8gswRN6Bw-3t/view?usp=sharing)
+[`Proxies Site`](https://litespeed.cc) | [`hCaptcha Solver/Bypass Folder (Google Drive)`](https://drive.google.com/file/d/1jRTU2IpIUKX2l0W5U9Q_8gswRN6Bw-3t/view?usp=sharing)
