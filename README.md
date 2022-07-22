@@ -2,6 +2,11 @@
 
 `The Main Src Of Space Generator With hCaptcha Solver/Bypass, Idk Why Im Leaking It But Yea Dw It Will Not Get Patched + Ill Update It When It Will Get Patched It`
 
+# Goals : 
+
+`100 Stars/80 Follows - ⭐ Fastest hCaptcha Solver/Bypass (6-8 secs solve time)`
+`150 Stars/120 Follows - ⭐ Email Verified Gen + Fastest hCaptcha Solver/Bypass (6-8 secs solve time)`
+
 # How To Configure : 
 
 `config.json`
