@@ -4,7 +4,7 @@
 
 # Goals : 
 
-`100 Stars/80 Follows - ⭐ Fastest hCaptcha Solver/Bypass (6-8 secs solve time)`<br />
+`100 Stars/80 Follows - ⭐ Fastest hCaptcha Solver/Bypass (6-8 secs solve time)`<br /><br />
 `150 Stars/120 Follows - ⭐ Email Verified Gen + Fastest hCaptcha Solver/Bypass (6-8 secs solve time)`
 
 # How To Configure : 
